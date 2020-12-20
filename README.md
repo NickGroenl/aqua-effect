@@ -1,5 +1,5 @@
 # aqua-effect
-Aqua effect transform images(rounded)
+Aqua effect transform images(rounded), get position actually of the elements and calculate distance to generate collision
 
 
 ```
